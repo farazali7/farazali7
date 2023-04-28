@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 University of Toronto: MSc in Applied Computing, Artificial Intelligence Concentration (Expected 12/2024)
 - 📚 University of Waterloo: BASc in Biomedical Engineering, Computing Option
-- 💼 Previously ML/SWE @ Deep Breathe, The Hospital for Sick Children, Siemens Healthineers, and Intellijoint Surgical, among others
+- 💼 Previously ML/SWE @ Deep Breathe, The Hospital for Sick Children, and Siemens Healthineers, among others
 - 👨‍💻 All of my personal projects are available in this repository
 
 <h3 align="left">Connect with me:</h3>
