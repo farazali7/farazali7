@@ -16,13 +16,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Faraz Ali</h1>
 <h3 align="center">A passionate machine learning engineer</h3>
 
-- 🌱 University of Toronto: Master of Science Applied Computing, Artificial Intelligence Concentration (Expected 12/2024)
-
-- 📚 University of Waterloo: Biomedical Engineering, Computing Option
-
-- 💼 Previously worked in ML/SWE roles at Deep Breathe, The Hospital for Sick Children, Siemens Healthineers, and Intellijoint Surgical, among others.
-
-- 👨‍💻 All of my projects are available in this repository.
+- 🌱 University of Toronto: Master of Science in Applied Computing, Artificial Intelligence Concentration (Expected 12/2024)
+- 📚 University of Waterloo: Bachelor of Applied Science in Biomedical Engineering, Computing Option
+- 💼 Previously ML/SWE @ Deep Breathe, The Hospital for Sick Children, Siemens Healthineers, and Intellijoint Surgical, among others.
+- 👨‍💻 All of my personal projects are available in this repository.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
