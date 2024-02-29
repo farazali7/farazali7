@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faraz-ali-a7683a179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faraz-ali-a7683a179" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/farazali7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faraz-ali-a7683a179" height="30" width="40" /></a>
 <a href="https://orcid.org/0009-0008-0286-9988" target="blank"><img align="center" src="https://raw.githubusercontent.com/ORCID/ORCID-Source/main/orcid-web/src/main/webapp/static/img/id-icon.svg" alt="faraz-ali-orcid" height="40" width="40" /></a>
 </p>
 
